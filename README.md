@@ -47,7 +47,7 @@ SELECT * FROM clientes;
 SELECT nome FROM clientes WHERE id = 1;
 ```
 
-### Alterar
+### Alterar (ainda vamos aprender)
 Dependendo do contexto, "alterar" pode significar duas coisas:
 
 ALTER TABLE (Alterar a estrutura): Adiciona, remove ou modifica colunas da tabela.
